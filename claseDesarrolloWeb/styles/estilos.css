@@ -1,0 +1,51 @@
+/* Selectores*/
+*{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+/*Selector etiquetas*/
+h1{
+    background-color:red;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 20px;
+}
+h2{
+
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 153, 0);
+    
+
+
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+}
+
+footer a{
+    color: rgb(247, 0, 255) !important;
+
+}
+
+#descripcion{
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(255, 166, 0);
+    border: rgb(255, 115, 0);
+    border-radius: 20px;
+}
+/*Selector de clases, se selecciona la clase con un punto*/
+
+.tituloUno{
+   font-style: italic;
+}
+.tituloDos{
+    font-style: italic;
+}
+.tituloTres {
+    font-style: italic;
+   
+}
+
