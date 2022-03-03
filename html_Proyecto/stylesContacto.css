@@ -1,0 +1,22 @@
+body{
+    margin: 10px;
+    background-color: #000000;
+    font-family:Arial, Helvetica, sans-serif;
+   color: rgb(255, 255, 255);
+   border: solid #00ff15;
+   align-items: center;
+   padding: 30px;
+  margin: 30px;
+  border-radius: 30px;
+  display: flex;
+  
+}
+.instagram{
+    align-items: center;
+}
+.descripcion{
+    align-items: flex-start;
+}
+.item{
+   margin: 20px;
+}
